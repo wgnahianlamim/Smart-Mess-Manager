@@ -1,1 +1,1 @@
-# Smart-Mess-Manager
+#Smart Mess Manager
